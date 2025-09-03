@@ -9,4 +9,4 @@
 7. [ ] Compare size differences between alpine and ubi8 images.
 8. [ ] Push an image to a container registry.
 9. [ ] Check the image digest using `podman inspect`.
-10. [ ] Document best practices for managing container images.
+
