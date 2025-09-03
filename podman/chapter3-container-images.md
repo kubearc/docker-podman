@@ -8,5 +8,4 @@
 6. [ ] Prune all unused images from the system.
 7. [ ] Compare size differences between alpine and ubi8 images.
 8. [ ] Push an image to a container registry.
-9. [ ] Check the image digest using `podman inspect`.
 
