@@ -9,4 +9,4 @@
 7. [ ] Build and test the multi-stage image.
 8. [ ] Run Docker rootless (if supported) and explain differences.
 9. [ ] Push your custom image to Docker Hub.
-10. [ ] Summarize best practices for writing Dockerfiles.
+
