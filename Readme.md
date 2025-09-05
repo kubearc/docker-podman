@@ -51,8 +51,7 @@ docker-podman/
 5. [Chapter 5 – Persisting Data](./podman/chapter5-persisting-data.md)  
 6. [Chapter 6 – Troubleshooting](./podman/chapter6-troubleshooting.md)  
 7. [Chapter 7 – Compose](./podman/chapter7-compose.md)  
-8. [Chapter 8 – Orchestration (OpenShift)](./podman/chapter8-orchestration.md)  
-9. [Chapter 9 – Review](./podman/chapter9-review.md)  
+
 
 ---
 
@@ -65,7 +64,7 @@ docker-podman/
 6. [Chapter 6 – Troubleshooting](./docker/chapter6-docker-troubleshooting.md)  
 7. [Chapter 7 – Compose](./docker/chapter7-compose.md)  
 8. [Chapter 8 – Orchestration (Docker Swarm)](./docker/chapter8-orchestration.md)  
-9. [Chapter 9 – Review](./docker/chapter9-review.md)  
+ 
 
 ---
 
