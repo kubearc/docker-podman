@@ -4,8 +4,8 @@
 Podman is already available on RHEL. To use `podman-compose`:
 
 ```bash
-sudo dnf install -y podman podman-docker
-sudo dnf install -y python3-pip
+yum install -y podman podman-docker
+yum install -y python3-pip
 pip3 install podman-compose
 ```
 
